@@ -1,0 +1,23 @@
+.grid-container{
+    display: flex;
+    background-color: aqua;
+    height: 300px;
+}
+.item-grid1{
+    display: flex;
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+}
+.item-grid2{
+    display: flex;
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+}
+.item-grid3{
+    display: flex;
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+}
